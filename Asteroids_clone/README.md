@@ -1,5 +1,5 @@
 # Graphics Programming (year 2)
-### Midterm project for the Graphics Programming: Angry Birds and Asteroids clone (2/4 projects)
+### Midterm project for the Graphics Programming: Asteroids clone (1/4 projects)
 &nbsp; 
 &nbsp; 
 &nbsp; 
