@@ -16,21 +16,21 @@
 &nbsp; 
 &nbsp;
 
-![version2_1](assets/version2_1.png)
+![version2_1](assets/version2_1.jpg)
 &nbsp; 
 &nbsp; 
 
-![version2_1](assets/version2_2.png)
+![version2_1](assets/version2_2.jpg)
 &nbsp; 
 &nbsp; 
 
-![version2_1](assets/version2_3.png)
+![version2_1](assets/version2_3.jpg)
 &nbsp; 
 &nbsp; 
 &nbsp; 
 &nbsp; 
 
 ### Screenshot of version 1.0
-![Video Games](assets/version1.png)
+![Video Games](assets/version1.jpg)
 &nbsp; 
 &nbsp; 
