@@ -7,7 +7,7 @@
 &nbsp; 
 
 ### Video of project: 
-#### [link](https://drive.google.com/file/d/1v-QSIr7rlFA2QT6xqDEBTX2Imd2nLdLW/view?usp=drive_link)
+#### [link](https://drive.google.com/file/d/1CWjQwo03bJumDBAD7qlawFgsEuJS3086/view?usp=drive_link)
 &nbsp; 
 &nbsp; 
 &nbsp; 
