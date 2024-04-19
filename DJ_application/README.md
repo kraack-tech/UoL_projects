@@ -22,16 +22,16 @@
 &nbsp; 
 
 #### Application in use
-![Home](assets/Picture2.jpg)
+![Home](assets/Picture2.png)
 &nbsp; 
 &nbsp; 
 
 #### Playlist components
-![Bookshelf](assets/Picture3.jpg)
+![Bookshelf](assets/Picture3.png)
 &nbsp; 
 &nbsp; 
 
 #### Playlist search functionality
-![Bookshelf](assets/Picture4.jpg)
+![Bookshelf](assets/Picture4.png)
 &nbsp; 
 &nbsp; 
